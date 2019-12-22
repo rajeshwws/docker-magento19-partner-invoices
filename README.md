@@ -81,4 +81,29 @@ Imagine a web shop build in Magento 1.9, that sells physical items. The items ar
 
 Any physical store can do their own marketing activities and can send traffic to the site. Based on the partnership contract, when a customer come referred by a physical store, the order will be shared, meaning that the store will ship and invoice half of the products, and the main warehouse will ship and invoice the other half. 
 
+Please follow the below step to check this functionally.
 
+Please go in admin and create the partner name: 
+ 
+the path is : ![home](img/partners.jpg)
+ 
+After creating the partner name in the admin . Please come on the home page pass the partner name in the query like below
+ http://m1.docker.local/?partner=RajeshKumar 
+ 
+ after hitting this url you will see the cookies saved as below
+ the path is : ![home](img/home-cookies.jpg)
+
+Now please go and place order. after placing order you can see the the admin order grid
+partner name as below 
+
+ the path is : ![home](img/orders.jpg)
+ 
+You can create Invoices
+
+the path is : ![home](img/invocies.jpg)
+  
+Also shipments 
+
+the path is : ![home](img/shipments.jpg)
+ 
+ 
