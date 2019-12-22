@@ -85,25 +85,25 @@ Please follow the below step to check this functionally.
 
 Please go in admin and create the partner name: 
  
-the path is : ![home](img/partners.jpg)
+the path is : Admin ->Partners - click on Add Partner Name button right side 
+ ![home](img/partners.jpg)
  
-After creating the partner name in the admin . Please come on the home page pass the partner name in the query like below
+After creating the partner name in the admin. Please come on the home page pass the partner name in the query like this
  http://m1.docker.local/?partner=RajeshKumar 
  
- after hitting this url you will see the cookies saved as below
- the path is : ![home](img/home-cookies.jpg)
+After hitting this URL you will see the cookies saved as below.
+  ![home](img/home-cookies.jpg)
 
-Now please go and place order. after placing order you can see the the admin order grid
-partner name as below 
+Now please go and place order. After placing order, you can see the the admin order grid partner name as below
 
- the path is : ![home](img/orders.jpg)
+ the path is : Admin->Sales->Orders ![home](img/orders.jpg)
  
 You can create Invoices
 
-the path is : ![home](img/invocies.jpg)
+the path is : the path is : Admin->Sales->Invoices ![home](img/invocies.jpg)
   
 Also shipments 
 
-the path is : ![home](img/shipments.jpg)
+the path is : Admin->Sales->Shipments ![home](img/shipments.jpg)
  
  
