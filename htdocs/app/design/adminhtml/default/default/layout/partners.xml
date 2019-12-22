@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <partners_adminhtml_partners_index>
+        <reference name="content">
+            <block type="partners/adminhtml_partners" name="partners" />
+        </reference>
+    </partners_adminhtml_partners_index>
+</layout> 
